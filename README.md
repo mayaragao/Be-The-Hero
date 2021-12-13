@@ -1,4 +1,4 @@
-# Be-The-Hero
+# Be The Hero
 Projeto desenvolvido durante a semana omnistack 11.0 da Rocketseat.
 É um projeto criado con a intenção de conectar ONGs a pessoas interessadas em contribuir.
 
